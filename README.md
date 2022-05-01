@@ -16,7 +16,7 @@
 Important to note that the speed it locks in an agent is limited on how fast you get off the loading screen.  
 
 Email: latafys@gmail.com                                                                                                                                                
-Current Download (5/1): https://mega.nz/file/FskS1QDA#Zq7L6-W3yXvCq4liO5bpoxMqElAdq86VRM9Pc6gB-I0
+Current Download (5/1): https://bit.ly/3s1Hsn2
 
 ![f0e16ba946a4f3046a4cf42135baab08](https://user-images.githubusercontent.com/103542834/166167239-79da38fd-b2c7-4299-8f77-fe715b324354.png)
 
