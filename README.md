@@ -1,7 +1,7 @@
 # Valorant-Instalock
 
 **How it works:
-- Simple valorant instalocking program. Choose your resolution and agent and click select. Use the home button to start and stop the program automatically. Should work on any resolution that you want.
+- Simple valorant instalocking program. Choose your resolution and agent and click select. Use the home button to start and stop the program automatically. Should work on any resolution that you want. Video showing how it works: https://www.youtube.com/watch?v=ga2B0cT9BFE
 
 **Features:
 - Any agent at ANY resolution
