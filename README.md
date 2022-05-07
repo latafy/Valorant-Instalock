@@ -16,7 +16,7 @@ Problems and Bugs:
 Important to note that the speed it locks in an agent is limited on how fast you get off the loading screen.  
 
 Email: latafys@gmail.com                                                                                                                                                
-Current Download (5/7): tinyurl.com/instalockEXE (if download doesn't work, use tinyurl.com/instalockMSI)
+Current Download (5/7): https://tinyurl.com/instalockEXE (if download doesn't work, use https://tinyurl.com/instalockMSI)
 
 
 ![instalock](https://user-images.githubusercontent.com/103542834/167274890-e40c95c4-1a09-4d90-a1fc-6e14122702ce.png)
